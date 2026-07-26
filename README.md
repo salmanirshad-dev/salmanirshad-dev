@@ -38,7 +38,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,tailwind,firebase,supabase,git,github,vscode,arduino,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,supabase,git,github,vscode,arduino,figma&theme=dark"/>
 
 </div>
 
