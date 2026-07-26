@@ -1,38 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SALMAN&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Arduino%20•%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Salman&fontSize=65&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Arduino%20•%20AI%20Enthusiast&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hey+there!+👋;Welcome+to+my+GitHub!;Full+Stack+Developer;Arduino+%7C+Electronics+%7C+AI;Building+Projects+That+Matter!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Salman+👋;Full+Stack+Developer;Arduino+%7C+IoT+%7C+AI;Building+Projects+That+Matter;Welcome+to+my+GitHub!"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=syntaxbysalman&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -44,12 +18,15 @@
 class Salman {
 public:
     string role = "Full Stack Developer";
-    string passion = "Building intelligent apps & electronics projects";
+    string interests = "Arduino • AI • Web Development";
+    string motto = "Code and Electronics hits my dopamine.";
+
     vector<string> tech = {
         "C++",
         "JavaScript",
         "React",
         "Next.js",
+        "Tailwind CSS",
         "Arduino",
         "Firebase",
         "Supabase",
@@ -58,12 +35,38 @@ public:
 };
 ```
 
-## 🚀 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,tailwind,firebase,supabase,git,github,vscode,arduino,figma&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,python,firebase,supabase,git,github,vscode,arduino&theme=dark"/>
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=syntaxbysalman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxbysalman&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=syntaxbysalman&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syntaxbysalman&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -80,6 +83,18 @@ public:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+### 🌐 Connect With Me
+
+<a href="https://github.com/syntaxbysalman">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
 
 </div>
